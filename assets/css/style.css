@@ -33,28 +33,14 @@ body {
 	
 }
 .navbar-brand>h1{
-	    font-weight: 800;
+    font-weight: 800;
     font-size: 20px;
     text-transform: initial;
-
-
-
-
 }
 .navbar-brand{
 	display:flex;
-	
-	
 }
-.navbar-brand>h1{
-	    font-weight: 800;
-    font-size: 20px;
-    text-transform: initial;
 
-
-
-
-}
 section {
     padding-bottom: 120px;
     padding-top: 100px;
